@@ -1,0 +1,17 @@
+ /* body{
+    background-color: hotpink;
+ }
+ button{
+   padding: 20px 35px;
+ } */
+ body {
+   background-color: rgb(84, 207, 255);
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+button {
+   padding: 20px 35px;
+   margin: 35px;
+   background-image: radial-gradient(circle, rgb(255, 255, 54),rgb(248, 59, 147),  rgba(149, 236, 149, 0.854));
+}
